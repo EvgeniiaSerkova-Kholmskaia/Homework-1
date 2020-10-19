@@ -1,0 +1,4 @@
+Personal details:
+Name, surname
+Profession
+Education
